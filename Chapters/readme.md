@@ -4,16 +4,20 @@ CONTENTS
 
 2. LITERATURE REVIEW
 
-2.1. COMMON CHARACTERISTIC OF THE COLD STRESS. PHYSIOLOGICAL AND MOLECULAR LEVELS OF EFFECT
+2.1. COMMON CHARACTERISTIC OF THE COLD STRESS
+- PHYSIOLOGICAL AND MOLECULAR LEVELS OF EFFECT
 
-2.2. REACTION OF THE PHOTOSYNTHETIC APPARATUS TO LOW TEMPERATURES – PHOTODAMAGE. ROS AS A MAIN DAMAGING FACTOR AT CONDITIONS OF COLD STRESS 
+2.2. REACTION OF THE PHOTOSYNTHETIC APPARATUS TO LOW TEMPERATURES – PHOTODAMAGE
+- ROS AS A MAIN DAMAGING FACTOR AT CONDITIONS OF COLD STRESS 
 
-2.3. THE PLANT PIGMENTS AND ANTIOXIDANTS (TERPENOIDS) AS PROTECTORS AGAINST COLD STRESS ....................................................................... 18
-CAROTENOID PIGMENTS ................................................................................ 19
-TOCOPHEROLS ................................................................................................... 23
-02.04. PRINCIPLE OF THE CHLOROPHYLL FLUORESCENCE .......................... 25
-PROMPT FLUORESCENCE OF CHLOROPHYLL a (PF) ............................. 25
-MODULATED 820 nm LIGHT REFLECTION (MR820) ................................... 29
+2.3. THE PLANT PIGMENTS AND ANTIOXIDANTS (TERPENOIDS) AS PROTECTORS AGAINST COLD STRESS
+- CAROTENOID PIGMENTS
+- TOCOPHEROLS 
+
+02.04. PRINCIPLE OF THE CHLOROPHYLL FLUORESCENCE 
+- PROMPT FLUORESCENCE OF CHLOROPHYLL a (PF) 
+- MODULATED 820 nm LIGHT REFLECTION (MR820)
+
 02.05. PLANT HORMONES AS REGULATORS OF THE TOLERANCE TO COLD STRESS .................................................................................................................................. 31
 ABSCISIC ACID (ABA) ......................................................................................... 31
 CYTOKININES (CK) ............................................................................................ 33
