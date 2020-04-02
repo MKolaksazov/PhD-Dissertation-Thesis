@@ -1,8 +1,13 @@
 CONTENTS
+
 1. ITRODUCTION
+
 2. LITERATURE REVIEW
+
 2.1. COMMON CHARACTERISTIC OF THE COLD STRESS. PHYSIOLOGICAL AND MOLECULAR LEVELS OF EFFECT
+
 2.2. REACTION OF THE PHOTOSYNTHETIC APPARATUS TO LOW TEMPERATURES – PHOTODAMAGE. ROS AS A MAIN DAMAGING FACTOR AT CONDITIONS OF COLD STRESS 
+
 2.3. THE PLANT PIGMENTS AND ANTIOXIDANTS (TERPENOIDS) AS PROTECTORS AGAINST COLD STRESS ....................................................................... 18
 CAROTENOID PIGMENTS ................................................................................ 19
 TOCOPHEROLS ................................................................................................... 23
