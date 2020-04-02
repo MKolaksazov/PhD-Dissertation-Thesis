@@ -1,6 +1,7 @@
 ## CONTENTS
 
 1. ITRODUCTION
+https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Chapters/1.pdf
 
 2. LITERATURE REVIEW
 
