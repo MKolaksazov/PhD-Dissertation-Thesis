@@ -1,10 +1,10 @@
 CONTENTS
 
-1. ITRODUCTION
+01. ITRODUCTION
 
-2. LITERATURE REVIEW
+02. LITERATURE REVIEW
 
-2.1. COMMON CHARACTERISTIC OF THE COLD STRESS
+02.01. COMMON CHARACTERISTIC OF THE COLD STRESS
 - PHYSIOLOGICAL AND MOLECULAR LEVELS OF EFFECT
 
 2.2. REACTION OF THE PHOTOSYNTHETIC APPARATUS TO LOW TEMPERATURES – PHOTODAMAGE
@@ -18,19 +18,22 @@ CONTENTS
 - PROMPT FLUORESCENCE OF CHLOROPHYLL a (PF) 
 - MODULATED 820 nm LIGHT REFLECTION (MR820)
 
-02.05. PLANT HORMONES AS REGULATORS OF THE TOLERANCE TO COLD STRESS .................................................................................................................................. 31
-ABSCISIC ACID (ABA) ......................................................................................... 31
-CYTOKININES (CK) ............................................................................................ 33
-- METABOLISM OF THE CK .............................................................................. 34
-- CK AND STRESS ................................................................................................. 35
-03. AIM AND TASKS .................................................................... 38
-04. MATERIALS AND METHODS ............................................. 39
-4
-04.01. OBJECT OF RESEARCH, GROWTH CONDITIONS AND EXPERIMENTAL DESIGN ................................................................................................. 39
-OBJECT OF STUDY: ARABIS ALPINA L. (BRASSICACEAE) ...................... 39
-METHODS FOR COLLECTING OF PLANT AND SEED SAMPLES .......... 41
-PLANT CULTURE, GROWN IN STANDARTIZED LABORATORY CONDITIONS, PROGENY OF PLANTS FROM THE NATURE ................................ 42
-ЕXPERIMENTAL DESIGN ................................................................................. 43
+02.05. PLANT HORMONES AS REGULATORS OF THE TOLERANCE TO COLD STRESS 
+- ABSCISIC ACID (ABA) 
+- CYTOKININES (CK) 
+- METABOLISM OF THE CK 
+- CK AND STRESS 
+
+03. AIM AND TASKS 
+
+04. MATERIALS AND METHODS 
+
+04.01. OBJECT OF RESEARCH, GROWTH CONDITIONS AND EXPERIMENTAL DESIGN 
+- OBJECT OF STUDY: ARABIS ALPINA L. (BRASSICACEAE) 
+- METHODS FOR COLLECTING OF PLANT AND SEED SAMPLES 
+- PLANT CULTURE, GROWN IN STANDARTIZED LABORATORY CONDITIONS, PROGENY OF PLANTS FROM THE NATURE 
+- ЕXPERIMENTAL DESIGN 
+
 04.02. MEASUREMENT OF THE ELECTROLYTE LEAKAGE FROM LEAVES, TREATED WITH DIFFERENT NEGATIVE TEMPERATURES ................................. 44
 04.03. MEASUREMENT OF THE NET PHOTOSYNTHETIC ACTIVITY BY THE METHOD OF СО2 UPTAKE .............................................................................................. 45
 04.04. MEASUREMENT OF THE CHLOROPHYLL FLUORESCENCE WITH THE PEA AND M-PEA FLUOROMETERS ............................................................................... 46
