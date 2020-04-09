@@ -1,17 +1,33 @@
-<img src="Fig1_HTML_Printed.gif" height="50">
 - Xanthophyll cycle
-![picture](Fig1_HTML_Printed.gif)
+<p align="center">
+<img src="Fig1_HTML_Printed.gif" display="flex" justify-content="center" height="650"></br>
+<img src="XC1_Printed.jpg" height="250">
+</p>
 - Kautsky effect
-![picture](Kautsky_effect.PNG)
-- ABA metabolism
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/Web-ABA-en-10.jpg)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/XC1_Printed.jpg)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/cksynthesis.bmp)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/kudo01_en.gif)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/mcm07901.jpg)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/Unnamed1.png)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/peroxy1.bmp)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/photophosphorylation_Printed.png)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/embor906-f3.gif)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/fig04-Gov-Z.jpg)
-![picture](https://github.com/MKolaksazov/PhD-Dissertation-Thesis/blob/master/Diagrams%2C%20graphs%20and%20charts/Diagrams/z-scheme.gif)
+<img src="Kautsky_effect.PNG" height="250">
+- ABA biosynthetic pathway
+<img src="Web-ABA-en-10.jpg" height="250">
+
+- Cytokinin biosynthetic pathway
+<p align="center">Trans-CK</br>
+<img src="cksynthesis.bmp" height="250">
+</p>Trans- and Cis-CK</br>
+<img src="kudo01_en.gif">
+
+- Pathway of Jasmonic acid biosynthesis
+<img src="mcm07901.jpg" height="450">
+<p align="center">
+<img src="Unnamed1.png" height="550">
+  </br>
+<img src="peroxy1.bmp" height="650"></br>
+</p>
+- Light phase of photosynthesis
+<p align="center"></br>
+<img src="photophosphorylation_Printed.png" height="250"></br>
+<img src="embor906-f3.gif" height="250"></br>
+</p>
+- Z-scheme
+<p align="center"></br>
+<img src="fig04-Gov-Z.jpg" height="350"></br>
+<img src="z-scheme.gif" height="450"></br>
+</p>
